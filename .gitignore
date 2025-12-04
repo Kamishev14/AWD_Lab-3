@@ -23,6 +23,4 @@ dist-ssr
 *.sln
 *.sw?
 
-# Ignore key.js file
-src/service/key.js
-src/firebase/firebase.js
+
